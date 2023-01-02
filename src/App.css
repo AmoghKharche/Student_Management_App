@@ -1,0 +1,12 @@
+*{
+  font-size: 30px;
+}
+
+.nav {
+  background-color: coral;
+}
+.nav a{
+  color: white;
+  text-decoration: none;
+  margin: 40px;
+}
